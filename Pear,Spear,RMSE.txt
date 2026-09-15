@@ -1,0 +1,3 @@
+Pearson r – meria či predikcie rastú spolu s ľudským hodnotením lineárne (od -1 do 1, chceme čo najbližšie k 1)
+Spearman p – podobné ako Pearson ale meria poradie, nie priamu závislosť (robustnejší)
+RMSE – o koľko bodov sa model priemerne mýli (chceme čo najnižšie)
